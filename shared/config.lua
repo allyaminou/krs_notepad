@@ -10,7 +10,7 @@ Krs.Notepads = {
         coords = vector4(438.6447, -980.1989, 30.8933, 133.5726),
         items = {
             {
-                label = "Scrivi sul notepad",
+                label = "Use notepad",
                 title = "Server Name",
             },
         }
@@ -21,7 +21,7 @@ Krs.Notepads = {
     --     coords = vector4(438.6447, -980.1989, 30.8933, 133.5726),
     --     items = {
     --         {
-    --             label = "Scrivi sul notepad",
+    --             label = "Use notepad",
     --             title = "Server Name",
     --         },
     --     }
