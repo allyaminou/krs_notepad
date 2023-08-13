@@ -2,9 +2,11 @@ Krs_notepad
 
 * - Instalation
 
-* -- ox_inventory/modules/items/client.lua
-* -- ox_inventory/data/items.lua
+
+
 ```lua
+
+* -- ox_inventory/modules/items/client.lua
 Item('notepad', function(data, slot)
 	local metadata = slot.metadata
 
@@ -12,7 +14,7 @@ Item('notepad', function(data, slot)
 end)
 
 
-
+* -- ox_inventory/data/items.lua
 	['notepad'] = {
 		label = 'Notepad',
 		consume = 0,
